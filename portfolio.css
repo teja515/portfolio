@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: rgb(6, 240, 240);
+}
+li{
+    display: inline;
+    margin-right: 50px;
+}
+img{
+    border-radius: 50%;
+}
+.one{
+    background-color: cadetblue;
+}
+.two{
+    background-color: black;
+    color: white;
+}
